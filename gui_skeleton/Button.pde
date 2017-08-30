@@ -1,10 +1,5 @@
 /*--------------------------------------------------------------------------------------------
- * Author: Carlos Carbajal & Graham Place
- *
- * Class: Button
  * 
- * Description: Create a button on window that is clickable
- *
  * Credit: https://blog.startingelectronics.com/a-simple-button-for-processing-language-code/
  *-------------------------------------------------------------------------------------------*/
 
